@@ -3,16 +3,16 @@ This project aims to create a car dealership website with car selection, editing
 
 > 1. User registration. The data is entered into the database.
 
-![Alt-текст](images\Register.png "Register")
+![Alt-текст](images/Register.png "Register")
 > 2. Cars list
 
-![Alt-текст](images\Home.png "Home")
+![Alt-текст](images/Home.png "Home")
 > 3. Add, details, edit and delete
 
-![Alt-текст](images\maintenance.png "Maintenance")
+![Alt-текст](images/maintenance.png "Maintenance")
 > 4. Adding to favorites
 
-![Alt-текст](images\Top.png "Top")
+![Alt-текст](images/Top.png "Top")
 ___
 ## Stage 1: Frontend (Angular)
 
