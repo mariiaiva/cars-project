@@ -1,0 +1,23 @@
+.auth-pannel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100svh;
+    color: white;
+}
+
+.form {
+    background-color: brown;
+    padding: 20px 50px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.reg {
+    text-align: center;
+}
